@@ -1,0 +1,68 @@
+
+body{
+    background-color:#B68CB8;
+}
+
+a:hover {
+    color:hotpink
+}
+
+a:visited{
+    color:black
+}
+
+div{
+    margin: auto;
+    width: 75%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color:#0A81D1;
+    text-align: center;
+}
+
+table{
+    margin: auto;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #6461A0;
+    border-color: #EFBDEB;
+    border-radius: 5px;
+    border-width: 10px;
+    border-style: groove;
+}
+
+th, td {
+    text-align: left;
+    border-bottom: 3px dotted black;
+}
+
+p{
+    margin: auto;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#0A81D1;
+    text-align: center;
+}
+
+img{
+    border-style:groove; 
+    border-radius:5px;
+    border-width: 10px;
+    border-color: #314cb6;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/anime/ani-9/ani856.cur), auto !important;} /* End https://www.cursors-4u.com */
